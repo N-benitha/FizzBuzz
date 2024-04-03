@@ -1,2 +1,2 @@
-# FizzBuzz
-Just a simple fizzbuzz program
+# Ihuzo Academy
+Assignments on Java Programming Langugae
